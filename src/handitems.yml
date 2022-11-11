@@ -1,0 +1,425 @@
+items:
+  stick:
+    id: 280
+    data-value: 0
+    slot: 0
+    permission: olimpet.handitem.stick
+    name: "&6Stick!"
+    lore:
+      - '&7COME TO FIGHT!'
+  arbol:
+    id: 6
+    data-value: 0
+    slot: 1
+    permission: olimpet.handitem.arbol
+    name: "&aGood people!"
+    lore:
+      - '&7I love trees!'
+  xp:
+    id: 384
+    data-value: 0
+    slot: 2
+    permission: olimpet.handitem.xp
+    name: "&dXP!"
+    lore:
+      - '&7XP? Take!'
+  rosa:
+    id: 38
+    data-value: 0
+    slot: 3
+    permission: olimpet.handitem.rosa
+    name: "&cLove!"
+    lore:
+      - '&7I love u!'
+  torch:
+    id: 50
+    data-value: 0
+    slot: 4
+    permission: olimpet.handitem.torch
+    name: "&eTorch!"
+    lore:
+      - '&7I dont see your face!'
+  via:
+    id: 66
+    data-value: 0
+    slot: 5
+    permission: olimpet.handitem.via
+    name: "&6Rail!"
+    lore:
+      - '&7Chuu chuuu!'
+  soup:
+    id: 282
+    data-value: 0
+    slot: 6
+    permission: olimpet.handitem.soup
+    name: "&bSoup!"
+    lore:
+      - '&7Hungry!'
+  country:
+    id: 296
+    data-value: 0
+    slot: 7
+    permission: olimpet.handitem.country
+    name: "&eCountry!"
+    lore:
+      - '&7Im a country!'
+  clock:
+    id: 347
+    data-value: 0
+    slot: 8
+    permission: olimpet.handitem.clock
+    name: "&eClock!"
+    lore:
+      - '&7The time is...!'
+  bow:
+    id: 261
+    data-value: 0
+    slot: 9
+    permission: olimpet.handitem.bow
+    name: "&7Bow!"
+    lore:
+      - '&7Shot em!'
+  espada:
+    id: 276
+    data-value: 0
+    slot: 10
+    permission: olimpet.handitem.espada
+    name: "&bSword!"
+    lore:
+      - '&7Scary?!'
+  pala:
+    id: 277
+    data-value: 0
+    slot: 11
+    permission: olimpet.handitem.pala
+    name: "&bShovel!"
+    lore:
+      - '&7Yeah!'
+  pico:
+    id: 278
+    data-value: 0
+    slot: 12
+    permission: olimpet.handitem.pico
+    name: "&bPickaxe!"
+    lore:
+      - '&7You need diamonds?!'
+  hacha:
+    id: 279
+    data-value: 0
+    slot: 13
+    permission: olimpet.handitem.hacha
+    name: "&bAxe!"
+    lore:
+      - '&7Wood? HA!'
+  hoz:
+    id: 293
+    data-value: 0
+    slot: 14
+    permission: olimpet.handitem.hoz
+    name: "&bHoe!"
+    lore:
+      - '&7My fruits!'
+  star:
+    id: 399
+    data-value: 0
+    slot: 15
+    permission: olimpet.handitem.star
+    name: "&9Star!"
+    lore:
+      - '&7Super star!'
+  rod:
+    id: 346
+    data-value: 0
+    slot: 16
+    permission: olimpet.handitem.rod
+    name: "&4Rod!"
+    lore:
+      - '&7Come to fight fishes!'
+  lava:
+    id: 327
+    data-value: 0
+    slot: 17
+    permission: olimpet.handitem.lava
+    name: "&cLava!"
+    lore:
+      - '&7Burgrgrgrh!'
+  water:
+    id: 326
+    data-value: 0
+    slot: 18
+    permission: olimpet.handitem.water
+    name: "&9Water!"
+    lore:
+      - '&7Splash!'
+  compass:
+    id: 345
+    data-value: 0
+    slot: 19
+    permission: olimpet.handitem.compass
+    name: "&fCompass!"
+    lore:
+      - '&7My house?!'
+  bed:
+    id: 355
+    data-value: 0
+    slot: 20
+    permission: olimpet.handitem.bed
+    name: "&5Bed!"
+    lore:
+      - '&7Time to sleep!'
+  tijeras:
+    id: 359
+    data-value: 0
+    slot: 21
+    permission: olimpet.handitem.tijeras
+    name: "&7Shears!"
+    lore:
+      - '&7My hair!'
+  blaze:
+    id: 369
+    data-value: 0
+    slot: 22
+    permission: olimpet.handitem.blaze
+    name: "&eBlaze stick!"
+    lore:
+      - '&7100% power!'
+  agua:
+    id: 373
+    data-value: 0
+    slot: 23
+    permission: olimpet.handitem.agua
+    name: "&9Salut!"
+    lore:
+      - '&7Bruuuuuuh!'
+  curacion:
+    id: 373
+    data-value: 16453
+    slot: 24
+    permission: olimpet.handitem.curacion
+    name: "&9Regeneration!"
+    lore:
+      - '&7PotPvP player!'
+  polvo:
+    id: 377
+    data-value: 0
+    slot: 25
+    permission: olimpet.handitem.polvo
+    name: "&6Blaze fire!"
+    lore:
+      - '&7Ouch! FIRE!'
+  escritor:
+    id: 386
+    data-value: 0
+    slot: 26
+    permission: olimpet.handitem.escritor
+    name: "&8Writter!"
+    lore:
+      - '&7A, b, c, d...!'
+  sound:
+    id: 2257
+    data-value: 0
+    slot: 27
+    permission: olimpet.handitem.sound
+    name: "&7DJ!"
+    lore:
+      - '&7Buum, tas!'
+  sound2:
+    id: 2266
+    data-value: 0
+    slot: 28
+    permission: olimpet.handitem.sound2
+    name: "&7DJ!"
+    lore:
+      - '&7Buum, tas!'
+  enchanter:
+    id: 403
+    data-value: 0
+    slot: 29
+    permission: olimpet.handitem.enchanter
+    name: "&bEnchanter!"
+    lore:
+      - '&7NO, need 1 level!'
+  zana:
+    id: 391
+    data-value: 0
+    slot: 30
+    permission: olimpet.handitem.zana
+    name: "&6Carrot!"
+    lore:
+      - '&7Im hungry!'
+  ojo:
+    id: 381
+    data-value: 0
+    slot: 31
+    permission: olimpet.handitem.ojo
+    name: "&2Ender eye!"
+    lore:
+      - '&7I see you!'
+  happy:
+    id: 354
+    data-value: 0
+    slot: 32
+    permission: olimpet.handitem.happy
+    name: "&aHappy birthday!"
+    lore:
+      - '&7:D!'
+  mechero:
+    id: 259
+    data-value: 0
+    slot: 33
+    permission: olimpet.handitem.mechero
+    name: "&aIm pro!"
+    lore:
+      - '&7McSg Pro player!'
+  encantador:
+    id: 116
+    data-value: 0
+    slot: 34
+    permission: olimpet.handitem.encantador
+    name: "&aEnchanter!"
+    lore:
+      - '&7Look my level!'
+  red:
+    id: 331
+    data-value: 0
+    slot: 35
+    permission: olimpet.handitem.red
+    name: "&cPro Redstoner!"
+    lore:
+      - '&7Im pro!'
+  sadmode:
+    id: 370
+    data-value: 0
+    slot: 36
+    permission: olimpet.handitem.sadmode
+    name: "&bSad mode!"
+    lore:
+      - '&7Im crying :C!'
+  bandera:
+    id: 425
+    data-value: 0
+    slot: 37
+    permission: olimpet.handitem.bandera
+    name: "&7Flag!"
+    lore:
+      - '&7lag!'
+  bandera1:
+    id: 425
+    data-value: 1
+    slot: 38
+    permission: olimpet.handitem.bandera1
+    name: "&7Flag!"
+    lore:
+      - '&7lag!'
+  bandera2:
+    id: 425
+    data-value: 2
+    slot: 39
+    permission: olimpet.handitem.bandera2
+    name: "&7Flag!"
+    lore:
+      - '&7lag!'
+  bandera3:
+    id: 425
+    data-value: 3
+    slot: 40
+    permission: olimpet.handitem.bandera3
+    name: "&7Flag!"
+    lore:
+      - '&7lag!'
+  bandera4:
+    id: 425
+    data-value: 4
+    slot: 41
+    permission: olimpet.handitem.bandera4
+    name: "&7Flag!"
+    lore:
+      - '&7lag!'
+  bandera5:
+    id: 425
+    data-value: 5
+    slot: 42
+    permission: olimpet.handitem.bandera5
+    name: "&7Flag!"
+    lore:
+      - '&7lag!'
+  bandera6:
+    id: 425
+    data-value: 6
+    slot: 43
+    permission: olimpet.handitem.bandera6
+    name: "&7Flag!"
+    lore:
+      - '&7lag!'
+  bandera7:
+    id: 425
+    data-value: 7
+    slot: 44
+    permission: olimpet.handitem.bandera7
+    name: "&7Flag!"
+    lore:
+      - '&7lag!'
+  bandera8:
+    id: 425
+    data-value: 8
+    slot: 45
+    permission: olimpet.handitem.bandera8
+    name: "&7Flag!"
+    lore:
+      - '&7lag!'
+  bandera9:
+    id: 425
+    data-value: 9
+    slot: 46
+    permission: olimpet.handitem.bandera9
+    name: "&7Flag!"
+    lore:
+      - '&7lag!'
+  bandera10:
+    id: 425
+    data-value: 10
+    slot: 47
+    permission: olimpet.handitem.bandera10
+    name: "&7Flag!"
+    lore:
+      - '&7lag!'
+  bandera11:
+    id: 425
+    data-value: 11
+    slot: 48
+    permission: olimpet.handitem.bandera11
+    name: "&7Flag!"
+    lore:
+      - '&7lag!'
+  bandera12:
+    id: 425
+    data-value: 12
+    slot: 49
+    permission: olimpet.handitem.bandera12
+    name: "&7Flag!"
+    lore:
+      - '&7lag!'
+  bandera13:
+    id: 425
+    data-value: 13
+    slot: 50
+    permission: olimpet.handitem.bandera13
+    name: "&7Flag!"
+    lore:
+      - '&7lag!'
+  bandera14:
+    id: 425
+    data-value: 14
+    slot: 51
+    permission: olimpet.handitem.bandera14
+    name: "&7Flag!"
+    lore:
+      - '&7lag!'
+  bandera15:
+    id: 425
+    data-value: 15
+    slot: 52
+    permission: olimpet.handitem.bandera15
+    name: "&7Flag!"
+    lore:
+      - '&7lag!'

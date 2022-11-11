@@ -1,0 +1,167 @@
+name: OlimPets
+version: 1.2
+main: me.Roy.OlimPets.Main
+author: Royendero
+description: OlimPets
+softdepend: [WorldGuard]
+commands:
+  olim:
+    description: Open Gui
+  party:
+    description: Party commands
+permissions:
+    olimpets.*:
+        description: Gives access to all commands
+        children:
+            olimpets.hotbar.*: true
+            olimpets.gui.*: true
+            olimpets.ranked.*: true
+            olimpets.unranked.*: true
+            olimpets.party.*: true
+            olimpets.create.*: true
+            olimpets.clear: true
+            olimpets.setspawn: true
+    olimpets.hotbar.*:
+        description: Gives access to all commands
+        children:
+            olimpets.hotbar.ranked: true
+            olimpets.hotbar.unranked: true
+            olimpets.hotbar.pet: true
+            olimpets.hotbar.backserver: true
+            olimpets.hotbar.party: true
+            olimpets.hotbar.events: true
+            olimpets.hotbar.tournaments: true
+    olimpets.gui.*:
+        description: Gives access to all commands
+        children:
+            olimpets.gui.name: true
+            olimpets.gui.armor: true
+            olimpets.gui.summon: true
+    olimpets.ranked.*:
+        description: Gives access to all commands
+        children:
+            olimpets.ranked.run: true
+            olimpets.ranked.jump: true
+            olimpets.ranked.count: true
+            olimpets.ranked.antilover: true
+    olimpets.unranked.*:
+        description: Gives access to all commands
+        children:
+            olimpets.unranked.run: true
+            olimpets.unranked.jump: true
+            olimpets.unranked.count: true
+            olimpets.unranked.antilover: true
+    olimpets.party.*:
+        description: Gives access to all commands
+        children:
+            olimpets.party.play.run: true
+            olimpets.party.play.jump: true
+            olimpets.party.play.count: true
+            olimpets.party.play.antilover: true
+            olimpets.party.create: true
+            olimpets.party.kick: true
+            olimpets.party.accept: true
+            olimpets.party.invite: true
+    olimpets.create.*:
+        description: Gives access to all commands
+        children:
+            olimpets.create.run: true
+            olimpets.create.jump: true
+            olimpets.create.count: true
+            olimpets.create.antilover: true
+    olimpets.hotbar.ranked:
+        description: Use item Ranked
+        default: true
+    olimpets.hotbar.unranked:
+        description: Use item UnRanked
+        default: true
+    olimpets.hotbar.pet:
+        description: Use item Pet
+        default: true
+    olimpets.hotbar.backserver:
+        description: Use item Backserver
+        default: true
+    olimpets.hotbar.party:
+        description: Use item Party
+        default: true
+    olimpets.hotbar.events:
+        description: Use item Events
+        default: true
+    olimpets.hotbar.tournaments:
+        description: Use item Tournaments
+        default: true
+    olimpets.gui.name:
+        description: Edit the name
+        default: true
+    olimpets.gui.armor:
+        description: Edit the armor
+        default: true
+    olimpets.gui.summon:
+        description: Summon the pet
+        default: true
+    olimpets.ranked.run:
+        description: Play run ranked
+        default: true
+    olimpets.ranked.jump:
+        description: Play jump ranked
+        default: true
+    olimpets.ranked.count:
+        description: Play count ranked
+        default: true
+    olimpets.ranked.antilover:
+        description: Play antilover ranked
+        default: true
+    olimpets.unranked.run:
+        description: Play run unranked
+        default: true
+    olimpets.unranked.jump:
+        description: Play jump unranked
+        default: true
+    olimpets.unranked.count:
+        description: Play count unranked
+        default: true
+    olimpets.unranked.antilover:
+        description: Play antilover unranked
+        default: true
+    olimpets.party.play.run:
+        description: Play run on Party
+        default: true
+    olimpets.party.play.jump:
+        description: Play jump on Party
+        default: true
+    olimpets.party.play.count:
+        description: Play count on Party
+        default: true
+    olimpets.party.play.antilover:
+        description: Play antilover on Party
+        default: true
+    olimpets.party.create:
+        description: Create party
+        default: true
+    olimpets.party.kick:
+        description: Kick party
+        default: true
+    olimpets.party.accept:
+        description: Accept party
+        default: true
+    olimpets.party.invite:
+        description: Invite party
+        default: true
+    olimpets.create.run:
+        description: Create maps of run
+        default: op
+    olimpets.create.jump:
+        description: Create maps of jump
+        default: op
+    olimpets.create.count:
+        description: Create maps of count
+        default: op
+    olimpets.create.antilover:
+        description: Create maps of antilover
+        default: op
+    olimpets.clear:
+        description: Clear zombies
+        default: op
+    olimpets.setspawn:
+        description: Set spawn
+        default: op

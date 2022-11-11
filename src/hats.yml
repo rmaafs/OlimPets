@@ -1,0 +1,321 @@
+hats:
+  glass:
+    id: 20
+    data-value: 0
+    slot: 0
+    permission: olimpet.hat.glass
+    name: "&7Glass!"
+    lore:
+      - '&7Astronaut!'
+  student:
+    id: 47
+    data-value: 0
+    slot: 1
+    permission: olimpet.hat.student
+    name: "&eStudent!"
+    lore:
+      - '&7VIVA THE SCHOOL!'
+  boca:
+    id: 23
+    data-value: 0
+    slot: 2
+    permission: olimpet.hat.boca
+    name: "&7A eye!"
+    lore:
+      - '&7Lock me!'
+  bob:
+    id: 19
+    data-value: 0
+    slot: 3
+    permission: olimpet.hat.bob
+    name: "&6Sponge Bob!"
+    lore:
+      - '&7Jejejeje!'
+  music:
+    id: 84
+    data-value: 0
+    slot: 4
+    permission: olimpet.hat.music
+    name: "&bMusic!"
+    lore:
+      - '&7Do Re Mi...!'
+  tnt:
+    id: 46
+    data-value: 0
+    slot: 5
+    permission: olimpet.hat.tnt
+    name: "&cExplode!"
+    lore:
+      - '&7BOOM NENA!'
+  brick:
+    id: 45
+    data-value: 0
+    slot: 6
+    permission: olimpet.hat.brick
+    name: "&eBob!"
+    lore:
+      - '&7Build!'
+  chef:
+    id: 61
+    data-value: 0
+    slot: 7
+    permission: olimpet.hat.chef
+    name: "&fChef!"
+    lore:
+      - '&7Yomi!'
+  chest:
+    id: 54
+    data-value: 0
+    slot: 7
+    permission: olimpet.hat.chest
+    name: "&6Chest!"
+    lore:
+      - '&7Click!'
+  stair:
+    id: 53
+    data-value: 0
+    slot: 8
+    permission: olimpet.hat.stair
+    name: "&7Stair!"
+    lore:
+      - '&7Lol!'
+  halloween:
+    id: 86
+    data-value: 0
+    slot: 9
+    permission: olimpet.hat.halloween
+    name: "&4Halloween!"
+    lore:
+      - '&7Bu!'
+  cactus:
+    id: 81
+    data-value: 0
+    slot: 10
+    permission: olimpet.hat.cactus
+    name: "&aCactus!"
+    lore:
+      - '&7Ouch!'
+  carbon:
+    id: 173
+    data-value: 0
+    slot: 11
+    permission: olimpet.hat.carbon
+    name: "&7Carbon!"
+    lore:
+      - '&7Ñaaa!'
+  iron:
+    id: 42
+    data-value: 0
+    slot: 12
+    permission: olimpet.hat.iron
+    name: "&eIron!"
+    lore:
+      - '&7Fierro!'
+  gold:
+    id: 41
+    data-value: 0
+    slot: 13
+    permission: olimpet.hat.gold
+    name: "&6Gold!"
+    lore:
+      - '&720K!'
+  lapis:
+    id: 22
+    data-value: 0
+    slot: 14
+    permission: olimpet.hat.lapis
+    name: "&9Lapis!"
+    lore:
+      - '&7NO DIAMOND :3!'
+  redstone:
+    id: 152
+    data-value: 0
+    slot: 15
+    permission: olimpet.hat.redstone
+    name: "&cRedStone!"
+    lore:
+      - '&7Clocks clocks and clocks!'
+  emerald:
+    id: 133
+    data-value: 0
+    slot: 16
+    permission: olimpet.hat.emerald
+    name: "&2Emerald!"
+    lore:
+      - '&7Boring!'
+  diamond:
+    id: 57
+    data-value: 0
+    slot: 17
+    permission: olimpet.hat.diamond
+    name: "&bRich!"
+    lore:
+      - '&7Money money!'
+  esqueleto:
+    id: 397
+    data-value: 0
+    slot: 18
+    permission: olimpet.hat.esqueleto
+    name: "&7Skeleton!"
+    lore:
+      - '&7...!'
+  esqueleto2:
+    id: 397
+    data-value: 1
+    slot: 19
+    permission: olimpet.hat.esqueleto2
+    name: "&8Whiter Skeleton!"
+    lore:
+      - '&7Whiter ...!'
+  zombie:
+    id: 397
+    data-value: 2
+    slot: 20
+    permission: olimpet.hat.zombie
+    name: "&2Zombie!"
+    lore:
+      - '&7Aaarrgh!'
+  human:
+    id: 397
+    data-value: 3
+    slot: 21
+    permission: olimpet.hat.human
+    name: "&eHuman!"
+    lore:
+      - '&7Hello!'
+  creeper:
+    id: 397
+    data-value: 4
+    slot: 22
+    permission: olimpet.hat.creeper
+    name: "&2Creeper!"
+    lore:
+      - '&7Tsssss!'
+  vidrio1:
+    id: 95
+    data-value: 1
+    slot: 27
+    permission: olimpet.hat.vidrio1
+    name: "&fAstronaut"
+    lore:
+      - '&7Moon in the middle!'
+  vidrio2:
+    id: 95
+    data-value: 2
+    slot: 28
+    permission: olimpet.hat.vidrio2
+    name: "&fAstronaut"
+    lore:
+      - '&7Moon in the middle!'
+  vidrio3:
+    id: 95
+    data-value: 3
+    slot: 29
+    permission: olimpet.hat.vidrio3
+    name: "&fAstronaut"
+    lore:
+      - '&7Moon in the middle!'
+  vidrio4:
+    id: 95
+    data-value: 4
+    slot: 30
+    permission: olimpet.hat.vidrio4
+    name: "&fAstronaut"
+    lore:
+      - '&7Moon in the middle!'
+  vidrio5:
+    id: 95
+    data-value: 5
+    slot: 31
+    permission: olimpet.hat.vidrio5
+    name: "&fAstronaut"
+    lore:
+      - '&7Moon in the middle!'
+  vidrio6:
+    id: 95
+    data-value: 6
+    slot: 32
+    permission: olimpet.hat.vidrio6
+    name: "&fAstronaut"
+    lore:
+      - '&7Moon in the middle!'
+  vidrio7:
+    id: 95
+    data-value: 7
+    slot: 33
+    permission: olimpet.hat.vidrio7
+    name: "&fAstronaut"
+    lore:
+      - '&7Moon in the middle!'
+  vidrio8:
+    id: 95
+    data-value: 8
+    slot: 34
+    permission: olimpet.hat.vidrio8
+    name: "&fAstronaut"
+    lore:
+      - '&7Moon in the middle!'
+  vidrio9:
+    id: 95
+    data-value: 9
+    slot: 35
+    permission: olimpet.hat.vidrio9
+    name: "&fAstronaut"
+    lore:
+      - '&7Moon in the middle!'
+  vidrio10:
+    id: 95
+    data-value: 10
+    slot: 36
+    permission: olimpet.hat.vidrio10
+    name: "&fAstronaut"
+    lore:
+      - '&7Moon in the middle!'
+  vidrio11:
+    id: 95
+    data-value: 11
+    slot: 37
+    permission: olimpet.hat.vidrio11
+    name: "&fAstronaut"
+    lore:
+      - '&7Moon in the middle!'
+  vidrio12:
+    id: 95
+    data-value: 12
+    slot: 38
+    permission: olimpet.hat.vidrio12
+    name: "&fAstronaut"
+    lore:
+      - '&7Moon in the middle!'
+  vidrio13:
+    id: 95
+    data-value: 13
+    slot: 39
+    permission: olimpet.hat.vidrio13
+    name: "&fAstronaut"
+    lore:
+      - '&7Moon in the middle!'
+  vidrio14:
+    id: 95
+    data-value: 14
+    slot: 40
+    permission: olimpet.hat.vidrio14
+    name: "&fAstronaut"
+    lore:
+      - '&7Moon in the middle!'
+  vidrio15:
+    id: 95
+    data-value: 15
+    slot: 41
+    permission: olimpet.hat.vidrio15
+    name: "&fAstronaut"
+    lore:
+      - '&7Moon in the middle!'
+  vidrio:
+    id: 95
+    data-value: 0
+    slot: 42
+    permission: olimpet.hat.vidrio
+    name: "&fAstronaut"
+    lore:
+      - '&7Moon in the middle!'

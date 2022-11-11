@@ -1,0 +1,315 @@
+guisize: 54
+colors:
+  red:
+    r: 255
+    g: 150
+    b: 150
+    slot: 0
+    permission: olimpets.color.white
+    name: "&cRed style 0!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  red1:
+    r: 255
+    g: 100
+    b: 100
+    slot: 1
+    permission: olimpets.color.white
+    name: "&cRed style 1!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  red2:
+    r: 196
+    g: 50
+    b: 50
+    slot: 2
+    permission: olimpets.color.white
+    name: "&cRed style 2!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  red3:
+    r: 196
+    g: 0
+    b: 0
+    slot: 3
+    permission: olimpets.color.white
+    name: "&cRed style 2!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  pink1:
+    r: 100
+    g: 0
+    b: 100
+    slot: 5
+    permission: olimpets.color.white
+    name: "&dPink style 1!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  pink2:
+    r: 150
+    g: 0
+    b: 150
+    slot: 6
+    permission: olimpets.color.white
+    name: "&dPink style 2!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  pink3:
+    r: 200
+    g: 0
+    b: 200
+    slot: 7
+    permission: olimpets.color.white
+    name: "&dPink style 3!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  pink4:
+    r: 255
+    g: 0
+    b: 255
+    slot: 8
+    permission: olimpets.color.white
+    name: "&dPink style 4!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  blue1:
+    r: 150
+    g: 150
+    b: 255
+    slot: 9
+    permission: olimpets.color.white
+    name: "&9Blue style 1!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  blue2:
+    r: 100
+    g: 100
+    b: 255
+    slot: 10
+    permission: olimpets.color.white
+    name: "&9Blue style 2!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  blue3:
+    r: 50
+    g: 50
+    b: 255
+    slot: 11
+    permission: olimpets.color.white
+    name: "&9Blue style 3!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  blue4:
+    r: 0
+    g: 0
+    b: 255
+    slot: 12
+    permission: olimpets.color.white
+    name: "&9Blue style 4!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  cyan1:
+    r: 0
+    g: 100
+    b: 100
+    slot: 14
+    permission: olimpets.color.white
+    name: "&bCyan style 1!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  cyan2:
+    r: 0
+    g: 150
+    b: 150
+    slot: 15
+    permission: olimpets.color.white
+    name: "&bCyan style 2!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  cyan3:
+    r: 0
+    g: 200
+    b: 200
+    slot: 16
+    permission: olimpets.color.white
+    name: "&bCyan style 3!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  cyan4:
+    r: 0
+    g: 250
+    b: 250
+    slot: 17
+    permission: olimpets.color.white
+    name: "&bCyan style 4!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  green1:
+    r: 200
+    g: 255
+    b: 200
+    slot: 18
+    permission: olimpets.color.white
+    name: "&aGreen style 1!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  green2:
+    r: 150
+    g: 255
+    b: 150
+    slot: 19
+    permission: olimpets.color.white
+    name: "&aGreen style 2!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  green3:
+    r: 100
+    g: 255
+    b: 100
+    slot: 20
+    permission: olimpets.color.white
+    name: "&aGreen style 3!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  green4:
+    r: 50
+    g: 255
+    b: 50
+    slot: 21
+    permission: olimpets.color.white
+    name: "&aGreen style 4!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  yellow1:
+    r: 100
+    g: 100
+    b: 0
+    slot: 23
+    permission: olimpets.color.white
+    name: "&eYellow style 1!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  yellow2:
+    r: 150
+    g: 150
+    b: 0
+    slot: 24
+    permission: olimpets.color.white
+    name: "&eYellow style 2!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  yellow3:
+    r: 200
+    g: 200
+    b: 0
+    slot: 25
+    permission: olimpets.color.white
+    name: "&eYellow style 3!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  yellow4:
+    r: 250
+    g: 250
+    b: 0
+    slot: 26
+    permission: olimpets.color.white
+    name: "&eYellow style 4!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  orange1:
+    r: 255
+    g: 50
+    b: 0
+    slot: 27
+    permission: olimpets.color.white
+    name: "&6Orange style 1!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  orange2:
+    r: 200
+    g: 50
+    b: 0
+    slot: 28
+    permission: olimpets.color.white
+    name: "&6Orange style 2!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  orange3:
+    r: 150
+    g: 50
+    b: 0
+    slot: 29
+    permission: olimpets.color.white
+    name: "&6Orange style 3!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  orange4:
+    r: 100
+    g: 50
+    b: 0
+    slot: 30
+    permission: olimpets.color.white
+    name: "&6Orange style 4!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  gray1:
+    r: 50
+    g: 50
+    b: 50
+    slot: 32
+    permission: olimpets.color.white
+    name: "&7Gray style 1!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  gray2:
+    r: 100
+    g: 100
+    b: 100
+    slot: 33
+    permission: olimpets.color.white
+    name: "&7Gray style 2!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  gray3:
+    r: 200
+    g: 200
+    b: 200
+    slot: 34
+    permission: olimpets.color.white
+    name: "&7Gray style 3!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  gray4:
+    r: 255
+    g: 255
+    b: 255
+    slot: 35
+    permission: olimpets.color.white
+    name: "&7Gray style 4!"
+    lore:
+      - '&8&l    > &7Click to select.'
+minerals:
+  iron:
+    slot: 45
+    permission: olimpets.color.white
+    name: "&7Iron!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  gold:
+    slot: 46
+    permission: olimpets.color.white
+    name: "&eGold!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  chainmail:
+    slot: 47
+    permission: olimpets.color.white
+    name: "&eGold!"
+    lore:
+      - '&8&l    > &7Click to select.'
+  diamond:
+    slot: 48
+    permission: olimpets.color.white
+    name: "&eGold!"
+    lore:
+      - '&8&l    > &7Click to select.'

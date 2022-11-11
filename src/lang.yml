@@ -1,0 +1,284 @@
+nopermission: "&cYou dont have permission."
+writenamechanged: "&aWrite a name on the chat!."
+namechanged: "&aName changed to &e<name>&a!"
+petsummoned: "&2<petname>&a summoned!."
+pethide: "&2<petname>&a hide!."
+game:
+  waiting: "&9Waiting players of <game> game... &e<number>/<max>"
+  startingpregame: "&b<seconds>&9 seconds to autostart game."
+  nomapsavailable: "&cNo maps availables."
+  playerleaved: "&c<player> left the game."
+  playerexit: "&c<player> left the game (Disconnect)."
+  nodestroy: "&cYou cant destroy."
+  noplace: "&cYou cant place."
+  nomapsslotavailables: "&cNo maps with <slots> slots availables. Please wait."
+  playeroffline: "&cPlayer offline."
+  rankedelostart: "&9<player1> (<elo1>) vs <player2> (<elo2>)&7 (<kit>)"
+  rankedelofinish: "&a<player1> <elo1> (+<elo>) &c<player2> <elo2> (-<elo>)&7 (<kit>)"
+  youareplaying: "&cYou are playing."
+  alreadyplaying: "&cPlayer playing."
+  run:
+    starting: "&aStarting game in <number> seconds..."
+    howENG:
+      - '&6&m---------------------'
+      - '&e&lRUN RUN RUN!'
+      - ''
+      - '&aClick left, right, left, right.'
+      - '&a&lVERY FAST!'
+      - '&6&m---------------------'
+    how:
+      - '&6&m---------------------'
+      - '&e&lCorre corre!'
+      - ''
+      - '&aDa click izquierdo, en seguida usa.'
+      - '&a&lclick derecho, luego izquierdo, etc.'
+      - '&a¡RAPIDAMENTE!.'
+      - '&4&lCLIQUEA MIRANDO A UN BLOQUE.'
+      - '&6&m---------------------'
+    finish: "&6&l<position>.- &e<petname> &7(<player>)&e finish!"
+    winner: "&e&l<petname> &7&l(<player>)&a&l WON THE GAME!."
+  jump:
+    starting: "&aStarting jumper in <number> seconds..."
+    howENG:
+      - '&6&m---------------------'
+      - '&e&lJUMP JUMP JUMP!'
+      - ''
+      - '&aIf you jump, your pet jump!.'
+      - '&6&m---------------------'
+    how:
+      - '&6&m---------------------'
+      - '&e&lSalta y salta!'
+      - ''
+      - '&aCuando tu saltes, tu pet saltará.'
+      - '&a¡Que tu pet no toque los obstaculos!.'
+      - '&4&lCLIQUEA MIRANDO A UN BLOQUE.'
+      - '&6&m---------------------'
+    lose: "&c<petname> &7(<player>)&c lose!"
+    winner: "&e&l<petname> &7&l(<player>)&a&l WON THE GAME!."
+  count:
+    starting: "&aLoading zombies!, starts in <number> seconds..."
+    howENG:
+      - '&6&m---------------------'
+      - '&e&lCount your pet!'
+      - ''
+      - '&aIf you see your pet,'
+      - '&ause &2< Left click&a to remove 1 point.'
+      - '&ause &c> Right click&a to add 1 point.'
+      - '&6&m---------------------'
+    how:
+      - '&6&m---------------------'
+      - '&e&lCuenta zombies.'
+      - ''
+      - '&aCuenta cuantos zombies están en la fiesta.'
+      - '&aUsa &2< Click izquierdo&a para remover 1 punto.'
+      - '&aUsa &c> Click derecho&a para agregar 1 punto.'
+      - '&7Los puntos los veras en tu indicador de nivel de XP.'
+      - '&4&lCLIQUEA MIRANDO A UN BLOQUE.'
+      - '&6&m---------------------'
+    results:
+      - ''
+      - '&a&lRESULTS:'
+      - '   &6<player>:&e&l <number>'
+      - '&e&lTotal zombies: &c&l<total>'
+      - ''
+    winner: "&e&l<petname> &7&l(<player>)&a&l WON THE GAME!."
+    draw: "&6&lDRAW!."
+  antilover:
+    starting: "&aInyecting love in <number> seconds..."
+    howEN:
+      - '&6&m---------------------'
+      - '&e&lKiss me zombie!'
+      - ''
+      - '&aDont touch the zombies!,'
+      - '&ause &2< Left click&a to move.'
+      - '&ause &c> Right click&a to move.'
+      - '&6&m---------------------'
+    how:
+      - '&6&m---------------------'
+      - '&e&lBesame zombie!'
+      - ''
+      - '&a¡No toques los zombies o serás conquistado'
+      - '&acon sus besos!.'
+      - '&aUsa &2< Click izquierdo y derecho &apara moverte.'
+      - '&4&lCLIQUEA MIRANDO A UN BLOQUE.'
+      - '&6&m---------------------'
+    lose: "&c<petname> &7(<player>)&c lose!"
+    winner: "&e&l<petname> &7&l(<player>)&a&l WON THE GAME!."
+creatingmap:
+  notare: "&cYou dont are creating a map."
+  needminspawns: "&cYou need min &e<number>&c spawns!"
+  canceled: "&aCanceled."
+  run:
+    step: "&aPlease, go to coord Y, in this coord the first zombie will be spawned. Use &b/olim ready&a, or &b/olim cancel&a. ZOMBIES ARE WALKING ONLY ON X, THE NUMBER X WILL BE HIGHER, x=1, x=2, x=3, etc."
+    final: "&aPlease, go to coord X where are the final. If a zombie stay in the same coord X, zombie are done. X coord need are higher than the zombie spawn and use &b/olim ready&a."
+    spawn: "&aPlease, go to coord Y, in this coord the first player will be spawned. Use &b/olim ready&a, or &b/olim cancel&a."
+    created: "&aMap &e<number> &acreated for Run!."
+  jump:
+    zombiespawn: "&aPlease, go to coord Y, in this coord the first zombie will be spawned. Use &b/olim ready&a, or &b/olim cancel&a."
+    playerspawn: "&aPlease, go to coord Y, in this coord the first player will be spawned. Use &b/olim ready&a, or &b/olim cancel&a."
+    created: "&aMap &e<number> &acreated for Jump!."
+  count:
+    zombiespawn: "&aPlease, go to coord Y, in this coord the first zombie will be spawned (X coord will be reducing). Use &b/olim ready&a, or &b/olim cancel&a."
+    zombiespawnfinal: "&aPlease, go to coord Y, in this coord the first zombie will be spawned (X coord will be increasing). Use &b/olim ready&a, or &b/olim cancel&a."
+    zombiespawnplayer: "&aPlease, go to coord to spawns player. Use &b/olim ready&a, or &b/olim cancel&a."
+    created: "&aMap &e<number> &acreated for count!."
+  antilover:
+    zombiespawn: "&aPlease, go to coord Y, in this coord the zombiez will be spawned. Use &b/olim ready&a, or &b/olim cancel&a."
+    playerspawn: "&aPlease, go to coord Y, in this coord the players will be spawned. Use &b/olim ready&a, or &b/olim cancel&a."
+    loverspawn: "&aPlease, go to coord Y, in this coord the lovers will be spawned (This coord need are more higher than the zombie spawn). Use &b/olim ready&a, or &b/olim cancel&a."
+    firstborder: "&aPlease, go to coord X, in this coord are the first border (X higher). Use &b/olim ready&a, or &b/olim cancel&a."
+    secondborder: "&aPlease, go to coord X, in this coord are the first border (X lower). Use &b/olim ready&a, or &b/olim cancel&a."
+    created: "&aMap &e<number> &acreated for Antilover!."
+prefix:
+  partychat: "&9&lPARTY &9<player> &7&l>&b <msg>"
+party:
+  createmsg:
+    - ''
+    - '&5Party created!'
+    - ''
+    - '&d/party invite <player>'
+    - '&d/party kick <player>'
+    - ''
+  newowner: "&9&lPARTY >> &6<player>&e is the new owner!"
+  kickplayer: "&9&lPARTY >> &c<player>&b has been kicked."
+  kicked: "&9&lPARTY >> &cYou are kicked from the party."
+  joined: "&9&lPARTY >> &6<player>&b joined."
+  leaved: "&9&lPARTY >> &6<player>&c leaved."
+  sent: "&9&lPARTY >> &eInvite sent to <player>!"
+  invited: "&9&lPARTY >> &6<player>&e has invited you to he party."
+  invitedclick: " \u27A1 Click to accept invitation."
+  noinvited: "&cYou not are invited."
+  playerinparty: "&cThis player already has a party."
+  hasinvited: "&cThis player already has a invitation."
+  noexist: "&cThis party no exist."
+  donthave: "&cYou dont have party."
+  noowner: "&cYou dont are the owner of this party."
+  noinparty: "&cThis player dont are in the party."
+  youhave: "&cYou are in a party."
+  full: "&cParty full."
+  min2players: "&cNeed min 2 players."
+gui:
+  petmenu:
+    title: "&5PetConfig"
+    items:
+      name:
+        name: "&aName of pet"
+        lore:
+          - '&7Current name: <color><name>&7.'
+      summon:
+        enabled:
+          name: "&aFollow me!"
+          lore:
+            - '&7Spawn your pet.'
+        disabled:
+          name: "&aGo to home!"
+          lore:
+            - '&7Hide your pet.'
+      armor:
+        name: "&aChange armor"
+        lore:
+          - '&7Click to edit the armor&7.'
+  petarmormenu:
+    title: "&5Armor config"
+    petarmorcolorhelmet: "&5Choose a Helmet color"
+    petarmorcolorchestplate: "&5Choose a Chestplate color"
+    petarmorcolorleggings: "&5Choose a Leggings color"
+    petarmorcolorboots: "&5Choose a Boots color"
+    petarmorcolorhand: "&5Choose a hand item"
+    petarmorhat: "&6Choose a hat"
+    petarmorhanditems: "&6Choose a item."
+  petarmorcolor:
+    items:
+      hat:
+        name: "&aChoose a hat."
+        lore:
+          - '&7Click to choose a custom hat!.'
+      leave:
+        name: "&cBack."
+        lore:
+          - '&7Click to back.'
+  unranked:
+    title: "&5> UnRanked <"
+  ranked:
+    title: "&4> Ranked <"
+  partyplay:
+    title: "&5> Select a game <"
+  games:
+    items:
+      running:
+        name: "&6Run run run!."
+        lore:
+          - '&7Click left and right to run!.'
+          - ''
+          - '&aPlaying: &e<playing>'
+          - '&aWaiting: &e<waiting>/<maxunranked>'
+          - ''
+          - '&6  > &eClick to join!.'
+      jump:
+        name: "&eJumper!."
+        lore:
+          - '&7Jump the fences.'
+          - ''
+          - '&aPlaying: &e<playing>'
+          - '&aWaiting: &e<waiting>/<maxunranked>'
+          - ''
+          - '&6  > &eClick to join!.'
+      count:
+        name: "&aCount!."
+        lore:
+          - '&7How many zombies are walking?.'
+          - ''
+          - '&aPlaying: &e<playing>'
+          - '&aWaiting: &e<waiting>/<maxunranked>'
+          - ''
+          - '&6  > &eClick to join!.'
+      antilover:
+        name: "&cAntiLover!."
+        lore:
+          - '&7Be careful!.'
+          - '&7Dont touch the zombies'
+          - '&7or you will be kissed!'
+          - ''
+          - '&aPlaying: &e<playing>'
+          - '&aWaiting: &e<waiting>/<maxunranked>'
+          - ''
+          - '&6  > &eClick to join!.'
+hotbar:
+  ranked:
+    name: "&bRanked"
+    lore:
+      - '&7Click to join ranked.'
+  unranked:
+    name: "&6UnRanked"
+    lore:
+      - '&7Click to practice.'
+  pet:
+    name: "&aPet"
+    lore:
+      - '&7Click to edit your pet.'
+  leave:
+    name: "&cBackserver"
+    lore:
+      - '&7Click exit.'
+  party:
+    name: "&5Party"
+    lore:
+      - '&7Create a party.'
+  events:
+    name: "&eEvents"
+    lore:
+      - '&7Join to a event.'
+  tournaments:
+    name: "&cTournaments"
+    lore:
+      - '&7Join a tournament.'
+hotbarwaiting:
+  leave:
+    name: "&cLeave"
+    lore:
+      - '&7Click to leave queue.'
+hotbarparty:
+  play:
+    name: "&aPlay"
+    lore:
+      - '&7Click to play a game.'

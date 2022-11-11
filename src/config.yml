@@ -1,0 +1,136 @@
+#Olimpets by Royendero
+#If you have a problem or bug, sendme a PM in spigot!
+#No distribute this plugin, or your id will be disabled for use this plugin.
+#
+#If the player use the redstone, will be teleported to this server
+backserver: Practice
+#Max characters for the pet name
+namepetmaxlenght: 10
+#Max players to join unranked
+unrankedmaxplayers: 15
+#Min players need to start unranked
+unrankedminplayers: 2
+unrankedpretime: 5
+#Max players per party
+partymaxplayers: 20
+initialelo: 1400
+game:
+  run:
+#Distance every X step
+    zombiestep: 0.3
+#Distance between zombies
+    zombiespawndistance: 1.0
+  jump:
+    zombiespawndistance: 1.0
+#Velocity of the fence
+    fencevelocity: 0.2
+  count:
+    zombievelocity:
+      - 0.1
+      - 0.2
+      - 0.3
+      - 0.5
+  antilover:
+    zombiestep: 0.3
+    loverstep: 0.8
+color:
+#Show if the player have permission
+  shownopermissioncolor: true
+hotbar:
+  ranked:
+    id: 276 
+    data-value: 0
+    slot: 0
+  unranked:
+    id: 268 
+    data-value: 0
+    slot: 1
+  pet:
+    id: 86
+    data-value: 0
+    slot: 7
+  leave:
+    id: 331
+    data-value: 0
+    slot: 8
+  party:
+    id: 421
+    data-value: 0
+    slot: 4
+  events:
+    id: 399
+    data-value: 0
+    slot: 3
+  tournaments:
+    id: 120
+    data-value: 0
+    slot: 5
+hotbarwaiting:
+  leave:
+    id: 331
+    data-value: 0
+    slot: 8
+hotbarparty:
+  play:
+    id: 84
+    data-value: 0
+    slot: 0
+gui:
+  petmenu:
+    name:
+      id: 421
+      data-value: 0
+      slot: 11
+    summon:
+      enabled:
+        id: 351
+        data-value: 10
+      disabled:
+        id: 351
+        data-value: 8
+      slot: 40
+    armor:
+      id: 299
+      data-value: 0
+      slot: 15
+  petarmor:
+    helmet:
+      slot: 13
+    chestplate:
+      slot: 22
+    leggings:
+      slot: 31
+    boots:
+      slot: 40
+    hand:
+      slot: 23
+  petarmorcolor:
+    hat:
+      id: 86
+      data-value: 0
+      slot: 51
+    leave:
+      id: 331
+      data-value: 0
+      slot: 53
+  games:
+    running:
+      use: true
+      id: 353
+      data-value: 0
+      slot: 0
+    jump:
+      use: true
+      id: 85
+      data-value: 0
+      slot: 2
+    count:
+      use: true
+      id: 404
+      data-value: 0
+      slot: 4
+    antilover:
+      use: true
+      id: 38
+      data-value: 0
+      slot: 6
